@@ -1,0 +1,4 @@
+{
+  // Pengaturan Prettier
+  "prettier.singleQuote": true // Menggunakan tanda kutip tunggal
+}
